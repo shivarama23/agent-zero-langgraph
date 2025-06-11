@@ -1,0 +1,24 @@
+graphs:
+  finance_analysis:
+    path: "app/core/prompts/finance/analysis"
+    nodes:
+      - name: controller
+        file: "controller.md"
+        tools:
+      - name: expense_analyst
+        file: "expense_analyst.md"
+      - name: ratio_analyst
+        file: "ratio_analyst.md"
+      # - name: revenue_analyst
+      #   file: "revenue_analyst.md"
+      # - name: trend_analyst
+      #   file: "trend_analyst.md"
+    edges:
+      - from: controller
+        to: expense_analyst
+      # - from: controller
+      #   to: ratio_analyst
+      # - from: ratio_analyst
+      #   to: revenue_analyst
+      # - from: revenue_analyst
+      #   to: trend_analyst
