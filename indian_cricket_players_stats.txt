@@ -1,0 +1,39 @@
+Name: Virat Kohli
+Role: Batsman
+Matches: 500
+Runs: 26000+
+Average: 53.63
+Centuries: 77
+Strike Rate: 93.25
+
+Name: Sachin Tendulkar
+Role: Batsman
+Matches: 664
+Runs: 34357
+Average: 48.52
+Centuries: 100
+Strike Rate: 86.23
+
+Name: MS Dhoni
+Role: Wicketkeeper-Batsman
+Matches: 538
+Runs: 17266
+Average: 44.96
+Centuries: 16
+Strike Rate: 83.10
+
+Name: Rohit Sharma
+Role: Batsman
+Matches: 450
+Runs: 18000+
+Average: 45.38
+Centuries: 50
+Strike Rate: 89.95
+
+Name: Jasprit Bumrah
+Role: Bowler
+Matches: 200+
+Wickets: 350+
+Average: 21.99
+Economy: 4.49
+Strike Rate: 28.5
